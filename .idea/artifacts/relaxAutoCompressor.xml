@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="relaxAutoCompressor">
+    <output-path>$PROJECT_DIR$/out/artifacts/relaxAutoCompressor</output-path>
+    <root id="archive" name="relaxAutoCompressor.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

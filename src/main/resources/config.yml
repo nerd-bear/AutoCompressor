@@ -1,0 +1,24 @@
+compression-rules:
+  OAK_LOG:
+    compressed: OAK_LOG
+    super-compressed: OAK_WOOD
+    ultra-compressed: STRIPPED_OAK_LOG
+    compressed-name: "&aCompressed Wood"
+    super-compressed-name: "&6&lSUPER Compressed Wood"
+    ultra-compressed-name: "&e&lULTRA Compressed Wood"
+  COBBLESTONE:
+    compressed: STONE
+    super-compressed: SMOOTH_STONE
+    ultra-compressed: STONE_BRICKS
+    compressed-name: "&7Compressed Cobblestone"
+    super-compressed-name: "&8&lSUPER Compressed Cobblestone"
+    ultra-compressed-name: "&f&lULTRA Compressed Cobblestone"
+  IRON_INGOT:
+    compressed: IRON_BLOCK
+    super-compressed: IRON_BLOCK
+    ultra-compressed: IRON_BLOCK
+    compressed-name: "&fCompressed Iron"
+    super-compressed-name: "&f&lSUPER Compressed Iron"
+    ultra-compressed-name: "&f&lULTRA Compressed Iron"
+
+  # you add the rest cause im only here for to make the code.
